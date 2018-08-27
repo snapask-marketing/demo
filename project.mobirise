@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Components - 20180724",
-    "currentPage": "page2.html",
+    "currentPage": "ipad.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -2173,7 +2173,7 @@
         }
       ]
     },
-    "page2.html": {
+    "ipad.html": {
       "settings": {
         "meta_descr": "Web Site Generator Description",
         "title": "ipad",
